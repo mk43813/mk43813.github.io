@@ -8,21 +8,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%">
+<param name="movie" value="assets/BonkLiveVersion2.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed src="assets/BonkLiveVersion2.swf" quality="high" wmode="transparent" 
+    pluginspage="http://www.macromedia.com/go/getflashplayer" 
+    type="application/x-shockwave-flash" width="100%" height="100%">
+</embed>
+</object>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

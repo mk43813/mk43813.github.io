@@ -1,6 +1,5 @@
 ## I am trying to embed bonk.io!
-
-You can use the [editor on GitHub](https://github.com/mk43813/mk43813.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+go to http://bonk.io/ for the official website
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

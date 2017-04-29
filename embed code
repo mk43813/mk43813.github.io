@@ -1,0 +1,5 @@
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" height="100%" width="100%">
+    <param name="movie" value="http://bonk.io/BonkLiveVersion2.swf">
+    <param name="quality" value="high">
+    <embed wmode="transparent" src="http://bonk.io/BonkLiveVersion2.swf" type="application/x-shockwave-flash" height="100%" width="100%">
+</object>
